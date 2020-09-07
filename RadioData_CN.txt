@@ -734,7 +734,8 @@ e5ae9d0c-4f66-4453-a1c4-74512d8c55f5 =
 7b7b791e-9f85-43f5-b964-2ff6749be728 = 
 
 //2001. ORIGINAL [#FFFFC000]: [img=music] But come ye back when summer's in the meadow. [img=music]
-54f92592-3e3f-4d6e-9591-4411402459e7 = 
+54f92592-3e3f
+-4d6e-9591-4411402459e7 = 
 
 //2002. ORIGINAL [#FFFFC000]: [img=music] Or when the valley's hushed and white with snow. [img=music]
 1fbff31a-8a19-4beb-a0a6-170dc20b2a34 = 
@@ -1694,43 +1695,43 @@ f84e3dd5-86f2-4018-91d4-da9018eb2fa1 = 以及围绕所谓的“诺克斯事件�
 4afa783d-b04f-4294-98b4-f03d2c8251fb = 纽约，迈阿密，洛杉矶，还有更多的城市。
 
 //2321. ORIGINAL [#FFFFC000]: These pictures show military forces setting up shop in the heart of our cities.
-6c1fe212-f69a-4b63-b49a-25d8111fc3ae = 
+6c1fe212-f69a-4b63-b49a-25d8111fc3ae = 照片中可以看到军队在我们城市的核心位置设置了商店。
 
 //2322. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
-8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 
+8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 部队和坦克出现在了时代广场和迈阿密海滩。
 
 //2323. ORIGINAL [#FFFFC000]: To find out how this will impact on you...
-44917f13-b19a-4a96-85f1-10dabb2198b2 = 
+44917f13-b19a-4a96-85f1-10dabb2198b2 = 想要了解这些将对你造成什么样的影响...
 
 //2324. ORIGINAL [#FFFFC000]: ... please change to your regional Triple-N station.
-83bd850a-2b6e-4c21-970e-8de8213ded57 = 
+83bd850a-2b6e-4c21-970e-8de8213ded57 = ...请将台切换到您当地的Triple-N频道。
 
 //2325. ORIGINAL [#FFFFC000]: This morning the President had this to say:
-685085d6-befc-4e62-87e3-f88bfd3ed481 = 
+685085d6-befc-4e62-87e3-f88bfd3ed481 = 今天早上总统宣布：
 
 //2326. ORIGINAL [#FF00B0F0]: The curfew begins at 6pm EST. Please stay in your houses.
-62960b71-2cd1-4d29-9017-bb3ada5ef89b = 
+62960b71-2cd1-4d29-9017-bb3ada5ef89b = 宵禁时间从美国东部时间下午6点开始。请待在自己的房子里。
 
 //2327. ORIGINAL [#FF00B0F0]: Please tune in to local programming for curfew information.
-0872ba0e-4fdf-4a37-a533-5464c87bba0f = 
+0872ba0e-4fdf-4a37-a533-5464c87bba0f = 请切换到当地频道来了解宵禁信息。
 
 //2328. ORIGINAL [#FF00B050]: Yes, I saw the pictures. We got the fax.
-0dff74f2-02db-4829-9a9f-15cab7b6e157 = 
+0dff74f2-02db-4829-9a9f-15cab7b6e157 = 是的，我看到了这些照片。我们收到了传真。
 
 //2329. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
-da14d0d0-b5e4-493d-bc55-4424e50cd975 = 
+da14d0d0-b5e4-493d-bc55-4424e50cd975 = Triple-N收到的这些恐怖的照片揭示了禁区里发生的残酷事件
 
 //2330. ORIGINAL [#FF00B050]: We can't show the image, but at least one person suffering from the infection...
-a2bcad79-06f3-4aab-b8c2-d92addb9a6dd = 
+a2bcad79-06f3-4aab-b8c2-d92addb9a6dd = 我们不能展示这些画面，但至少有一个感染者...
 
 //2331. ORIGINAL [#FF00B050]: ... has attacked another. Viciously.
-5bf76dbb-1b70-4092-90ad-51f6ade0e427 = 
+5bf76dbb-1b70-4092-90ad-51f6ade0e427 = ...无情的攻击了另一个人。
 
 //2332. ORIGINAL [#FF00B050]: Orally.
 244f1e09-6c32-4f66-8e35-d4a4b1db4cae = 
 
 //2333. ORIGINAL [#FF00B050]: While sustaining terrible wounds himself.
-63133013-f61a-490f-9427-e98a33f054c7 = 
+63133013-f61a-490f-9427-e98a33f054c7 = 与此同时，他自己也遭受了可怕的创伤。
 
 //2334. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
 c99cd365-ac9d-463d-be67-2901750c1595 = 
